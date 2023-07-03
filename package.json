@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/tyleruk2000/gitlab-to-github#readme",
   "dependencies": {
-    "axios": "^1.4.0"
-  }
+    "@octokit/core": "^4.2.4",
+    "axios": "^1.4.0",
+    "log4js": "^6.9.1"
+  },
+  "type": "module"
 }
