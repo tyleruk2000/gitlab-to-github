@@ -1,0 +1,23 @@
+{
+  "name": "gitlab-to-github",
+  "version": "1.0.0",
+  "description": "Migrate all repos from gitlab to github",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyleruk2000/gitlab-to-github.git"
+  },
+  "author": "Tyler Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyleruk2000/gitlab-to-github/issues"
+  },
+  "homepage": "https://github.com/tyleruk2000/gitlab-to-github#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
